@@ -135,3 +135,9 @@ Interviewing is the *primary tool* for this phase. It's a formal process with th
 This phase is officially complete only when the **Business Sponsor(s) and key stakeholders formally "Sign Off" (approve)** the final requirements document.
 
 > This **Sign-off** is critical. It locks in the expectations and creates the official **Baseline** for the project. From this point forward, any changes must go through a formal "change request" process.
+>
+
+
+**
+**src:**
+[Gathering BI Requirements (PDF) - Chapter 3](https://github.com/al7san/business-intelligence/blob/main/Lecture%202%20(Book%202)%20CH3_Gathering_BI_Requirements.pdf)
