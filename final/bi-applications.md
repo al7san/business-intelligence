@@ -15,8 +15,6 @@ They:
 - Are updated throughout the BI project
 - Are shared between business users, designers, and developers
 
-> 📌 Image suggestion: Diagram showing  
-> Requirements → BI Content Specification → BI Applications
 
 ---
 
@@ -32,7 +30,6 @@ This list is refined by:
 
 Some BI projects achieve consolidation ratios as high as **10:1**.
 
-> 📌 Image suggestion: Before/after diagram showing many reports consolidated into fewer dashboards
 
 ---
 
@@ -57,7 +54,6 @@ Main BI personas:
 - Power Users
 - Data Scientists
 
-> 📌 Image suggestion: Persona map linking user types to BI tools
 
 ---
 
@@ -103,7 +99,6 @@ Best practices include:
 - Important information placed at the top-left
 - Limit dashboards to **four main visualizations**
 
-> 📌 Image suggestion: Example dashboard layout highlighting visual hierarchy
 
 ---
 
@@ -150,7 +145,6 @@ Overloaded models reduce usability and adoption.
 - Geographic analysis → Maps
 - Distribution analysis → Histograms or box plots
 
-> 📌 Image suggestion: Table mapping analysis types to visualization techniques
 
 ---
 
