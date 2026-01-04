@@ -5,8 +5,9 @@ focusing on **core concepts, architectures, ETL, development approaches, compari
 
 ---
 <p align="center">
-  <img src="image/DW.png" alt="DW" width="600">
+  <img src="../image/DW.png" alt="DW" width="600">
 </p>
+
 
 ---
 ## 1. What is a Data Warehouse?
