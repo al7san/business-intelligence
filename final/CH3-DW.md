@@ -4,7 +4,11 @@ This chapter explains **Data Warehousing (DW)** as the core infrastructure of Bu
 focusing on **core concepts, architectures, ETL, development approaches, comparisons, and operational issues**.
 
 ---
+<p align="center">
+  <img src="image/DW.png" alt="DW" width="600">
+</p>
 
+---
 ## 1. What is a Data Warehouse?
 
 A **Data Warehouse (DW)** is a centralized repository designed to support **analytical processing and decision making**.
