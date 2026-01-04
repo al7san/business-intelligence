@@ -15,10 +15,6 @@ BI design builds on the **BI content specifications** and defines:
 - Privacy, security, and access standards
 
 The goal is to deliver BI applications that are **consistent, usable, and secure**.
-
-> 📌 Image suggestion: Diagram showing  
-> BI Content Specifications → BI Design → BI Development → BI Applications
-
 ---
 
 ## 2. BI User Interface (UI) Standards
@@ -42,7 +38,6 @@ UI standards should define:
 - **Delivery platform standards** (web, tablet, mobile, print)
 - **Chart type standards** (matching analysis type to visualization)
 
-> 📌 Image suggestion: Table mapping BI styles to layout standards
 
 ---
 
@@ -83,7 +78,6 @@ Although related, these must be treated separately.
 - Based on user attributes (role, title, business unit, location)
 - Aim to improve productivity, not restrict users unnecessarily
 
-> 📌 Image suggestion: Diagram showing Privacy vs Security vs Access
 
 ---
 
@@ -116,7 +110,6 @@ BI design methods increase in visual detail from left to right:
 - Typically grayscale to avoid scope creep
 - Focus on layout, not interaction
 
-> 📌 Image suggestion: Example wireframe layout
 
 ---
 
@@ -161,7 +154,6 @@ Prototypes should be:
 - Incremental
 - Evolutionary (not throwaway)
 
-> 📌 Image suggestion: BI prototyping lifecycle flowchart
 
 ---
 
@@ -200,7 +192,6 @@ Performance tests should simulate:
 - Current peak loads
 - Expected growth over the next two years
 
-> 📌 Image suggestion: BI application testing phases diagram
 
 ---
 
