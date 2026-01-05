@@ -52,14 +52,14 @@ The focus should always be on **business problems**, not BI tools or technologie
 
 ---
 
-## 4. Review Business Initiatives and Processes
+### 4. Review Business Initiatives and Processes
 
-### 4.1 Business Initiatives
+#### 4.1 Business Initiatives
 - Strategic initiatives are typically planned years ahead
 - Almost all initiatives require data and analytics
 - BI should directly support these initiatives
 
-### 4.2 Business Processes
+#### 4.2 Business Processes
 - Many processes are limited by analytical bottlenecks
 - These bottlenecks may not be obvious to the business
 - Identifying them strengthens the BI business case
@@ -68,7 +68,7 @@ Business initiatives and processes should be prioritized to avoid overwhelming B
 
 ---
 
-## 5. Solicit BI Sponsorship
+### 5. Solicit BI Sponsorship
 
 A BI project requires **at least one committed business sponsor**.
 
@@ -86,7 +86,7 @@ The ideal scenario is one primary sponsor with a few secondary sponsors.
 
 ---
 
-## 6. Enlist BI Stakeholders
+### 6. Enlist BI Stakeholders
 
 Stakeholders include:
 - BI end users
@@ -108,7 +108,7 @@ Early stakeholder involvement:
 
 ---
 
-## 7. Identify Business Processes Affected by BI
+### 7. Identify Business Processes Affected by BI
 
 Business processes:
 - Generate data
@@ -123,7 +123,7 @@ Organizing BI around processes:
 
 ---
 
-## 8. Document Business Benefits
+### 8. Document Business Benefits
 
 Failing to document benefits leads to:
 - Overblown expectations
@@ -131,7 +131,7 @@ Failing to document benefits leads to:
 - Continued use of shadow systems
 - BI viewed as overhead instead of enabler
 
-### 8.1 Tangible vs Intangible Benefits
+#### 8.1 Tangible vs Intangible Benefits
 
 - **Intangible benefits** (e.g., “better decisions”) are subjective
 - BI justification should focus on **tangible, measurable benefits**
